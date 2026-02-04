@@ -36,10 +36,10 @@ With experience as an IT Support Officer and Web Developer, I have worked on net
 ---
 
 ## 📫 Connect With Me  
-- 🌐 Portfolio: [https://montfort-portfolio.vercel.app/](https://montfort-portfolio.vercel.app/)  
-- 📧 Email: [mugishamontfort28@gmail.com](mailto:mugishamontfort28@gmail.com)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/mugisha-montfort-5b9177346/)  
-- 📲 [Instagram](https://www.instagram.com/mont_fort_/)
+- 🌐 Portfolio: [https://jean-aime-portfolio.vercel.app/](https://jean-aime-portfolio.vercel.app/)  
+- 📧 Email: [baraime450@gmail.com](mailto:baraime450@gmail.com)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/jean-aim%C3%A9-8827b51b4/)  
+- 📲 [Instagram](https://www.instagram.com/aim3e__/)
 
 
 ---
