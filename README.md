@@ -28,7 +28,7 @@ With experience as an IT Support Officer and Web Developer, I have worked on net
 
 ## 📊 GitHub Insights
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jean-Aime&show_icons=true&theme=tokyonight" alt="Montfort's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Jean-Aime&show_icons=true&theme=tokyonight" alt="Jean Aime's GitHub Stats" />
   <img src="https://streak-stats.demolab.com?user=Jean-Aime&theme=tokyonight" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jean-Aime&layout=compact&theme=tokyonight" alt="Top Languages" />
 </div>
